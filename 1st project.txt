@@ -1,0 +1,21 @@
+void main() {
+  var a=69;
+  var b=96;
+  print(a+b);
+  
+  var c=41;
+  int d=29;
+  print(a-b);
+  
+  num e=10.6;
+  double f=9;
+  print (e+f);
+  
+  bool op=12>5;
+  print (op);
+  
+  var g=5;
+  var h=++g;
+  print(h);
+
+  }
